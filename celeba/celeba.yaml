@@ -1,0 +1,10 @@
+path: ./celeba  # dataset root dir
+train: ./celeba/train.txt
+val: ./celeba/val.txt
+test: ./celeba/test.txt
+
+# number of classes
+nc: 1
+
+# class names
+names: ['face']
